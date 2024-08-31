@@ -1,5 +1,5 @@
 # CGPA-Calculator
-**CGPA Calculator in C++**<br/>
+
 
 # (Overview)<br/>
 
@@ -23,7 +23,7 @@ Compile and run the program.
 Input the number of courses, followed by the credit hours and grades for each course.
 The program will output the GPA for the semester and the CGPA (if applicable).<br/>
 
-# Example<br/>
+**Example**<br/>
 
 How many courses did you take? 3
 Enter credit hours for course 1: 3
