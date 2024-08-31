@@ -1,5 +1,5 @@
 # CGPA-Calculator
-# CGPA Calculator in C++<br/>
+**CGPA Calculator in C++**<br/>
 
 # (Overview)<br/>
 
@@ -15,7 +15,7 @@ CGPA Calculation: If used for multiple semesters, it can calculate the CGPA by a
 Input Validation: Ensures that only valid grades are entered, prompting the user to re-enter if an invalid grade is provided.
 Simple and Beginner-Friendly: The code is written in a straightforward manner, making it easy to understand and modify for beginners.<br/>
 
-# How to Use<br/>
+**How to Use**<br/>
 
 Clone or download the repository.
 Open the project in your preferred C++ IDE or editor.
