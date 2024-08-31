@@ -15,7 +15,7 @@ CGPA Calculation: If used for multiple semesters, it can calculate the CGPA by a
 Input Validation: Ensures that only valid grades are entered, prompting the user to re-enter if an invalid grade is provided.
 Simple and Beginner-Friendly: The code is written in a straightforward manner, making it easy to understand and modify for beginners.<br/>
 
-**How to Use**<br/>
+# How to Use<br/>
 
 Clone or download the repository.
 Open the project in your preferred C++ IDE or editor.
@@ -23,7 +23,7 @@ Compile and run the program.
 Input the number of courses, followed by the credit hours and grades for each course.
 The program will output the GPA for the semester and the CGPA (if applicable).<br/>
 
-**Example**<br/>
+# Example<br/>
 
 How many courses did you take? 3
 Enter credit hours for course 1: 3
